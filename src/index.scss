@@ -139,13 +139,13 @@ main {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: local, scroll;
-    background-image: url("./stars-pc-1440.gif") !important;
+    background-image: url("/stars-pc-1440.gif") !important;
     
     @media screen and (max-width: 640px) {
-        background-image: url("./stars-tablet-640.gif") !important;
+        background-image: url("/stars-tablet-640.gif") !important;
     }
     @media screen and (max-width: 360px) {
-        background-image: url("./stars-phone-360.gif") !important;
+        background-image: url("/stars-phone-360.gif") !important;
     }
 }
 
