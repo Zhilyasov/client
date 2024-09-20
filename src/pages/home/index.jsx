@@ -1,12 +1,12 @@
 import { useState } from "react";
-import Header from "../../components/header";
+import Header from "../../components/header/index.tsx";
 import styles from "./home.module.scss";
 import ReactPlayer from "react-player";
 // import Video from "/video-bg.webp";
-import Footer from "../../components/footer";
+import Footer from "../../components/footer/index.tsx";
 import MediumFlower from "/medium-flower.webp";
 import RoadmapFlowerRight from "/flower-roadmap-right.webp";
-import Tokenomics from "./../../components/svg/Tokenomics.tsx";
+import Tokenomics from "../../components/svg/Tokenomics.tsx";
 import TokenomicsMb from "../../components/svg/TokenomicsMb.tsx";
 
 import  useMeasure  from  'react-use-measure' 
