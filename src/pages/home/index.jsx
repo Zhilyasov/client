@@ -77,6 +77,24 @@ const Home = ({ style, styleTop }) => {
 							<span>NISE</span>
 							<span>NISE</span>
 					</div>
+					<div className={styles.lineScrollingText}>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+					</div>
+					<div className={styles.lineScrollingText}>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+							<span>NISE</span>
+					</div>
 				</div>
 			</section>
 
